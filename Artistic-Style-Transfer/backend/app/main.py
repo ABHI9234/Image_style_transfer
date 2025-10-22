@@ -149,3 +149,21 @@ async def style_transfer(
     final_img.save(buf, format='JPEG')
     buf.seek(0)
     return StreamingResponse(buf, media_type="image/jpeg")
+
+
+
+
+
+
+# Backend:
+#
+# bash
+# cd Artistic-Style-Transfer/backend
+# source venv311/bin/activate
+# uvicorn app.main:app --reload
+# Frontend:
+#
+# bash
+# cd Artistic-Style-Transfer/artistry-essence
+# npm install
+# npm run dev
