@@ -1,21 +1,12 @@
-# Python virtual environments
 .venv/
 venv/
 venv311/
-env/
 __pycache__/
-
-# Git data
-.git/
-
-# Node modules or build artifacts if present
 node_modules/
 build/
 dist/
-
-# Others
 *.pyc
 *.pyo
 *.pyd
 .Python
-
+.git/
