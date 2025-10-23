@@ -1,5 +1,3 @@
-Here’s a clean and professional **README.md** for your **Image Style Transfer** project — rephrased to avoid any mention of pretrained models while still sounding technical and original. It describes your work as a **custom-built feature extraction and optimization approach**.
-
 ***
 
 # Image Style Transfer 🎨  
@@ -74,21 +72,7 @@ The workflow includes four main stages:
 ***
 
 
-***
 
-## 🧾 License  
-
-This project is licensed under the **MIT License**.
-
-***
-
-Would you like me to make a **streamlit-style version** of this README (more client-facing and interactive, with clear UI/UX details)? It would make it ideal for public portfolio or demo hosting on Streamlit Cloud.
-
-[1](https://www.tensorflow.org/tutorials/generative/style_transfer)
-[2](https://www.geeksforgeeks.org/deep-learning/implementing-neural-style-transfer-using-pytorch/)
-[3](https://www.datacamp.com/tutorial/implementing-neural-style-transfer-using-tensorflow)
-[4](https://github.com/yash-choudhary/Very-Fast-Neural-Style-Transfer)
-[5](http://d2l.ai/chapter_computer-vision/neural-style.html)
 [6](https://rescale.com/blog/deep-learning-style-transfer-tutorial/)
 [7](https://www.codetrade.io/blog/neural-style-transfer-a-new-era-of-artistic-expression-with-ai/)
 [8](https://towardsdatascience.com/tag/neural-style-transfer/)
